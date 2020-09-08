@@ -1,0 +1,7 @@
+---
+  dataSource: "issues"
+  prefix: ""
+  ignoreLabels: []
+  onlyMilestones: false
+  groupBy: false
+  changelogFilename: "CHANGELOG.md"
